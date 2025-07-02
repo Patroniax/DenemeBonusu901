@@ -14,31 +14,15 @@ Online bahis siteleri kullanıcıları kendine çekmek için birçok promosyon s
 
 ---
 
-<!-- 0. SATIR -->
-<table>
-  <tr>
-    <th>Casibom</th>
-  </tr>
-  <tr>
-    <td><a href="https://shortlinkapp.com/casiboms" target="_blank"><img src="https://resmim.net/cdn/2025/07/02/TPU7v3.jpg" width="250" /></a></td>
-  </tr>
-  <tr>
-    <td>2000TL HOŞ GELDİN BONUSU 🎁</td>
-  </tr>
-  <tr>
-    <td><a href="https://shortlinkapp.com/casiboms" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FF4500?style=for-the-badge&logoColor=white" /></a></td>
-  </tr>
-</table>
-
 <!-- 1. SATIR -->
 <table>
   <tr>
-    <th>Kralbet</th>
+    <th>Casibom</th>
     <th>Tarafbet</th>
     <th>Sahabet</th>
   </tr>
   <tr>
-    <td><a href="https://cutt.ly/KrQnVYMx" target="_blank"><img src="https://resmim.net/cdn/2025/06/14/T1NfO3.jpg" width="250" /></a></td>
+    <td><a href="https://shortlinkapp.com/casiboms" target="_blank"><img src="https://resmim.net/cdn/2025/07/02/TPU7v3.jpg" width="250" /></a></td>
     <td><a href="https://cutt.ly/7rWja0JT" target="_blank"><img src="https://resmim.net/cdn/2025/06/17/TiXCEi.jpg" width="250" /></a></td>
     <td><a href="https://cutt.ly/nrvXgVNa" target="_blank"><img src="https://resmim.net/cdn/2025/06/01/Td5It3.jpg" width="250" /></a></td>
   </tr>
@@ -48,7 +32,7 @@ Online bahis siteleri kullanıcıları kendine çekmek için birçok promosyon s
     <td>1000 TL DENEME BONUSU 🎁</td>
   </tr>
   <tr>
-    <td><a href="https://cutt.ly/KrQnVYMx" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FFD700?style=for-the-badge&logoColor=black" /></a></td>
+    <td><a href="https://shortlinkapp.com/casiboms" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FF4500?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/7rWja0JT" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-800000?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/nrvXgVNa" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-006400?style=for-the-badge&logoColor=white" /></a></td>
   </tr>
@@ -107,24 +91,25 @@ Online bahis siteleri kullanıcıları kendine çekmek için birçok promosyon s
   <tr>
     <th>Piabet</th>
     <th>Tipobet</th>
-    <th>Bizbet</th>
+    <th>Kralbet</th>
   </tr>
   <tr>
     <td><a href="https://piatrack1.com/ajhlajjz" target="_blank"><img src="https://resmim.net/cdn/2025/06/22/TOZgTG.jpg" width="250" /></a></td>
     <td><a href="https://cutt.ly/xrvbv2wY" target="_blank"><img src="https://resmim.net/cdn/2025/06/01/Td5w0c.jpg" width="250" /></a></td>
-    <td><a href="https://refpa7480988.top/L?tag=d_4420769m_62079c_&site=4420769&ad=62079" target="_blank"><img src="https://resmim.net/cdn/2025/06/08/Tbkxd1.jpg" width="250" /></a></td>
+    <td><a href="https://cutt.ly/KrQnVYMx" target="_blank"><img src="https://resmim.net/cdn/2025/06/14/T1NfO3.jpg" width="250" /></a></td>
   </tr>
   <tr>
     <td>%100 HOŞGELDİN BONUSU 🎁</td>
     <td>750 TL DENEME BONUSU 🎁</td>
-    <td>%100 HOŞGELDİN BONUSU <br> 3000 TL 🎁</td>
+    <td>2000TL HOŞ GELDİN BONUSU 🎁</td>
   </tr>
   <tr>
     <td><a href="https://piatrack1.com/ajhlajjz" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-32CD32?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/xrvbv2wY" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-00CED1?style=for-the-badge&logoColor=black" /></a></td>
-    <td><a href="https://refpa7480988.top/L?tag=d_4420769m_62079c_&site=4420769&ad=62079" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FF6600?style=for-the-badge&logoColor=white" /></a></td>
+    <td><a href="https://cutt.ly/KrQnVYMx" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FFD700?style=for-the-badge&logoColor=black" /></a></td>
   </tr>
 </table>
+
 
 ---
 
